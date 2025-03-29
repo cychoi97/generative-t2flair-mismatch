@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <img src="assets/t1_t2_flair.png" height="500">
+    <img src="assets/t1_t2_flair.png" height="300">
 </div>
 
 
