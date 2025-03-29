@@ -60,8 +60,8 @@ def get_config():
   data.random_flip = True
   data.uniform_dequantization = False
   data.num_channels = 3
-  # Plug in your own path to the dataset_pytorch file.
-  data.data_root = '/workspace/changyong/_T2FLAIR_Mismatch/Data_npy/Data1/mutant_type'
+  # Plug in your own path to the dataset_pytorch.py file.
+  data.data_root = ''
 
   # model
   config.model = model = ml_collections.ConfigDict()
