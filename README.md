@@ -1,5 +1,5 @@
-<h2 align="center"> Generative T2-FLAIR mismatch sign in glioma: <br>
-  Effect of augmenting phenotype for isocitrate dehydrogenase mutation prediction <br>
+<h2 align="center">
+  Phenotype augmentation using generative AI for isocitrate dehydrogenase mutation prediction in glioma
 </h2>
 
 
