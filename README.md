@@ -89,7 +89,7 @@ Our main code is heavily based on [score_sde_pytorch](https://github.com/yang-so
 
 ## BibTeX
 ```text
-@article{jung2025context,
+@article{jung2025idh,
   title={Phenotype augmentation using generative AI for isocitrate dehydrogenase mutation prediction in glioma},
   author={Jung, Ha Kyung and Choi, Changyong and Park, Ji Eun and Park, Seo Young and Lee, Jae Ho and Kim, Namkug and Kim, Ho Sung},
   journal={Scientific Reports},
