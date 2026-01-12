@@ -26,6 +26,8 @@
     <img src="assets/t1_t2_flair.png" height="300">
 </div>
 
+## Abstract
+This study investigated the effects of feature augmentation, which uses generated images with specific imaging features, on the performance of isocitrate dehydrogenase (IDH) mutation prediction models in gliomas. A total of 598 patients were included from our institution (310 training, 152 internal test) and the Cancer Genome Atlas (136 external test). Score-based diffusion models were used to generate T2-weighted, FLAIR, and contrast-enhanced T1-weighted image triplets. Three neuroradiologists independently assessed visual Turing tests and various morphological features. Multivariable logistic regression models were developed using real images, random augmented data, and feature-augmented datasets. While random augmentation yielded models with AUCs comparable to real image-based models, it led to reduced specificity, particularly in the external test set (specificity: 83.2% vs. 73.0%, P = .013). In contrast, feature-augmented models maintained stable diagnostic performance; however, when more than 70% of training images included synthetic T2-FLAIR mismatch signs, AUC decreased in the external test set (AUC: 0.905–0.906 for ≤ 70%; 0.902–0.876 for ≥ 80%). These findings highlight the value of phenotype-specific augmentation for IDH prediction, while emphasizing the need to optimize augmentation proportion to avoid performance degradation.
 
 ## Dependencies
 
