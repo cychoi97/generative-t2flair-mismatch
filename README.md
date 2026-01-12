@@ -74,6 +74,21 @@ python t1t2flair_sampling.py
 Sampling results will be stored in `./result/generated_images` as png file.
 
 
+## BibTeX
+```text
+@article{jung2025context,
+  title={Phenotype augmentation using generative AI for isocitrate dehydrogenase mutation prediction in glioma},
+  author={Jung, Ha Kyung and Choi, Changyong and Park, Ji Eun and Park, Seo Young and Lee, Jae Ho and Kim, Namkug and Kim, Ho Sung},
+  journal={Scientific Reports},
+  volume={15},
+  number={1},
+  pages={28913},
+  year={2025},
+  publisher={Nature Publishing Group UK London},
+  doi={10.1038/s41598-025-14477-z}
+}
+```
+
 ## Acknowledgement
 
 Our main code is heavily based on [score_sde_pytorch](https://github.com/yang-song/score_sde_pytorch).
