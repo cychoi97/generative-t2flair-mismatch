@@ -1,7 +1,7 @@
-<h1 align="center">
+<h2 align="center">
   Phenotype augmentation using generative AI <br>
   for isocitrate dehydrogenase mutation prediction in glioma
-</h1>
+</h2>
 
 <div align="center">
   <a>Ha&nbsp;Kyung&nbsp;Jung</a><sup>1,†</sup> &ensp; <b>&middot;</b> &ensp;
@@ -9,8 +9,8 @@
   <a>Ji&nbsp;Eun&nbsp;Park</a><sup>4,*</sup> &ensp; <b>&middot;</b> &ensp;
   <a>Seo&nbsp;Young&nbsp;Park</a><sup>5</sup> &ensp; <b>&middot;</b> &ensp;
   <a>Jae&nbsp;Ho&nbsp;Lee</a><sup>6</sup> &ensp; <b>&middot;</b> &ensp;
-  <a href="https://scholar.google.com/citations?hl=ko&user=e93LeuwAAAAJ" target="_blank">Namkug&nbsp;Kim</a><sup>2,4</sup> <br><br>
-  <a>Ho&nbsp;Sung&nbsp;Kim</a><sup>4</sup> &ensp; <b>&middot;</b> &ensp;
+  <a href="https://scholar.google.com/citations?hl=ko&user=e93LeuwAAAAJ" target="_blank">Namkug&nbsp;Kim</a><sup>2,4</sup> &ensp; <b>&middot;</b> &ensp; 
+  <a>Ho&nbsp;Sung&nbsp;Kim</a><sup>4</sup> <br><br>
 
   <sup>1</sup>Department of Radiology, Keimyung University Dongsan Hospital, Keimyung University School of Medicine, Daegu, Korea <br>
   <sup>2</sup>Department of Convergence Medicine, Asan Medical Center, University of Ulsan College of Medicine <br>
